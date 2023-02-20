@@ -1,0 +1,1 @@
+[{"uid":"608e27857e7fe998","name":"Verify GET call for single user","time":{"start":1675336553075,"stop":1675336553293,"duration":218},"status":"passed","severity":"normal"},{"uid":"cf54489f34ad9bce","name":"Verify POST call for single user","time":{"start":1675336553295,"stop":1675336553772,"duration":477},"status":"passed","severity":"normal"}]
